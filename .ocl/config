@@ -1,0 +1,6 @@
+[DEFAULT]
+user=USER_ID
+fingerprint=FINGERPRINT
+tenancy=TENANCY_ID
+region=SA_BOGOTA_1
+key_file=private-key.pem
